@@ -2,7 +2,7 @@ library(shiny)
 shinyUI(
   pageWithSidebar(
       headerPanel(
-          "Finding Lineair Regression Line Visually with Interactive help "
+          "Find Lineair Regression Line Visually with Interactive help "
       ),
       sidebarPanel(
           h2("ControlPanel"),
